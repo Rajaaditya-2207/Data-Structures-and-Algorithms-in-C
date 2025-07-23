@@ -91,6 +91,9 @@ It's good practice to add a license. Consider distributing your project under th
 
 ## 📬 Contact
 
-**Rajaaditya** - [@Rajaaditya-2207](https://github.com/Rajaaditya-2207)
+**Rajaaditya**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajaaditya-r-696285330)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajaaditya-2207)
 
 Project Link: [https://github.com/Rajaaditya-2207/Data-Structures-and-Algorithms-in-C](https://github.com/Rajaaditya-2207/Data-Structures-and-Algorithms-in-C)
